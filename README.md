@@ -1,1 +1,1 @@
-# Lab02
+# Lab02 Dawid SZYMIK 12K2 L04
